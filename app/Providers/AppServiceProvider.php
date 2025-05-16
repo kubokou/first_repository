@@ -15,3 +15,4 @@ class AppServiceProvider extends ServiceProvider
        //または Paginator::useBootstrapFour();    公式ドキュメント
     }
 }
+
